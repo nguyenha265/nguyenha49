@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1771eaba-20d9-4c52-9744-24b26b515740" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/den pin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>b1</find>
+      <find>b12</find>
+      <find>hop</find>
+      <find>ha</find>
+      <find>init</find>
+      <find>soDien</find>
+      <find>❌</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>hop1</replace>
+      <replace>checked</replace>
+      <replace>soTien</replace>
+      <replace>⭕</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/while.html" />
+        <option value="$PROJECT_DIR$/while 2.html" />
+        <option value="$PROJECT_DIR$/dowhilesample.html" />
+        <option value="$PROJECT_DIR$/wdvds.html" />
+        <option value="$PROJECT_DIR$/hmj.html" />
+        <option value="$PROJECT_DIR$/baitap for.html" />
+        <option value="$PROJECT_DIR$/bang cuu chuong.html" />
+        <option value="$PROJECT_DIR$/vong_lap.html" />
+        <option value="$PROJECT_DIR$/sfbx.html" />
+        <option value="$PROJECT_DIR$/bai3.html" />
+        <option value="$PROJECT_DIR$/bai_3.html" />
+        <option value="$PROJECT_DIR$/bai 5.html" />
+        <option value="$PROJECT_DIR$/bai 4.html" />
+        <option value="$PROJECT_DIR$/bai 6.html" />
+        <option value="$PROJECT_DIR$/fs.html" />
+        <option value="$PROJECT_DIR$/bai7.html" />
+        <option value="$PROJECT_DIR$/bai 8.html" />
+        <option value="$PROJECT_DIR$/arrayElement.html" />
+        <option value="$PROJECT_DIR$/dao_nguoc_mang.html" />
+        <option value="$PROJECT_DIR$/tim gia tri trong mang.html" />
+        <option value="$PROJECT_DIR$/tim gia tri lon nhat trong mang.html" />
+        <option value="$PROJECT_DIR$/fesgs.html" />
+        <option value="$PROJECT_DIR$/bfsbfs.html" />
+        <option value="$PROJECT_DIR$/bai 1.html" />
+        <option value="$PROJECT_DIR$/gưgegw.html" />
+        <option value="$PROJECT_DIR$/../New folder/while/while.html" />
+        <option value="$PROJECT_DIR$/fvasv.html" />
+        <option value="$PROJECT_DIR$/bai 2.html" />
+        <option value="$PROJECT_DIR$/../New folder/bang cuu chuong.html" />
+        <option value="$PROJECT_DIR$/bai 3.html" />
+        <option value="$PROJECT_DIR$/tu_dien.html" />
+        <option value="$PROJECT_DIR$/../New folder/co caro don gian.html" />
+        <option value="$PROJECT_DIR$/F T O T.html" />
+        <option value="$PROJECT_DIR$/Faking Textarea on Typing.html" />
+        <option value="$PROJECT_DIR$/xem thu.html" />
+        <option value="$PROJECT_DIR$/hvfchc.html" />
+        <option value="$PROJECT_DIR$/Tic tac toe.html" />
+        <option value="$PROJECT_DIR$/kg.html" />
+        <option value="$PROJECT_DIR$/xay dung lop date.html" />
+        <option value="$PROJECT_DIR$/lop hinh tron.html" />
+        <option value="$PROJECT_DIR$/funny cirles.html" />
+        <option value="$PROJECT_DIR$/mo ta hnh chu nhat.html" />
+        <option value="$PROJECT_DIR$/dàasfwe.html" />
+        <option value="$PROJECT_DIR$/mo ta Temperature.html" />
+        <option value="$PROJECT_DIR$/dvgvw.html" />
+        <option value="$PROJECT_DIR$/dfefbegdb.html" />
+        <option value="$PROJECT_DIR$/mo ta  dien thoai.html" />
+        <option value="$PROJECT_DIR$/jghcn.html" />
+        <option value="$PROJECT_DIR$/objects/index.html" />
+        <option value="$PROJECT_DIR$/objects/script.js" />
+        <option value="$PROJECT_DIR$/den pin.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="New folder (2)" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Admin 88\Desktop\New folder (2)" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="Tic tac toe.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/New folder (2)/Tic tac toe.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="funny cirles.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/New folder (2)/funny cirles.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/New folder (2)/objects/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="tu_dien.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/New folder (2)/tu_dien.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="xay dung lop date.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/New folder (2)/xay dung lop date.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.funny cirles.html" />
+        <item itemvalue="JavaScript Debug.xay dung lop date.html" />
+        <item itemvalue="JavaScript Debug.Tic tac toe.html" />
+        <item itemvalue="JavaScript Debug.tu_dien.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",HTML5_OUTLINE_MODE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1771eaba-20d9-4c52-9744-24b26b515740" name="Default Changelist" comment="" />
+      <created>1559610878232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559610878232</updated>
+      <workItem from="1559610879391" duration="29152000" />
+      <workItem from="1559696142318" duration="24262000" />
+      <workItem from="1559729184986" duration="1616000" />
+      <workItem from="1559781727079" duration="863000" />
+      <workItem from="1559782937709" duration="23634000" />
+      <workItem from="1559868049599" duration="28902000" />
+      <workItem from="1559914394085" duration="4225000" />
+      <workItem from="1560128312984" duration="161000" />
+      <workItem from="1560128498734" duration="26440000" />
+      <workItem from="1560169966200" duration="5417000" />
+      <workItem from="1560214436779" duration="24991000" />
+      <workItem from="1560303359600" duration="3055000" />
+      <workItem from="1560306662963" duration="43000" />
+      <workItem from="1560306714147" duration="18168000" />
+      <workItem from="1560337625646" duration="1288000" />
+      <workItem from="1560338987022" duration="6047000" />
+      <workItem from="1560736604552" duration="15397000" />
+      <workItem from="1560819170253" duration="26690000" />
+      <workItem from="1560906583190" duration="17370000" />
+      <workItem from="1560943332398" duration="5805000" />
+      <workItem from="1560959476205" duration="22782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="286308000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18710192" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32920355" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39786857" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.39253998" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.32927817" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22372611" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32920355" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39786857" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.39253998" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.32927817" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" log-message="true" log-stack="true" type="javascript-exception">
+          <properties uncaughtOnly="true" />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/New_folder__2_$Tic_tac_toe_html.dat" NAME="Tic tac toe.html Coverage Results" MODIFIED="1560338833313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bai7.html" />
+    <entry file="file://$PROJECT_DIR$/bai 8.html" />
+    <entry file="file://$PROJECT_DIR$/../New folder/while/while 2.html" />
+    <entry file="file://$PROJECT_DIR$/../New folder/do you love me/Do_you_love_me.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrayElement.html" />
+    <entry file="file://$PROJECT_DIR$/dao_nguoc_mang.html" />
+    <entry file="file://$PROJECT_DIR$/tim gia tri trong mang.html" />
+    <entry file="file://$PROJECT_DIR$/fesgs.html" />
+    <entry file="file://$PROJECT_DIR$/bfsbfs.html" />
+    <entry file="file://$PROJECT_DIR$/tim gia tri lon nhat trong mang.html" />
+    <entry file="file://$PROJECT_DIR$/co caro don gian.html" />
+    <entry file="file://$PROJECT_DIR$/gưgegw.html" />
+    <entry file="file://$PROJECT_DIR$/../New folder/while/while.html" />
+    <entry file="file://$PROJECT_DIR$/fvasv.html" />
+    <entry file="file://$PROJECT_DIR$/../New folder/while/fvasv.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" selection-start-line="8" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../New folder/while/bai 2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../New folder/bang cuu chuong.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai 1.html" />
+    <entry file="file://$PROJECT_DIR$/bai 2.html" />
+    <entry file="file://$PROJECT_DIR$/bai 3.html" />
+    <entry file="file://$PROJECT_DIR$/../New folder/mang 1/bai 3.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tu_dien.html" />
+    <entry file="file://$PROJECT_DIR$/../New folder/banphim/chenanh.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/F T O T.html" />
+    <entry file="file://$PROJECT_DIR$/Faking Textarea on Typing.html" />
+    <entry file="file://$PROJECT_DIR$/../New folder/click chuot/click_chuot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hvfchc.html" />
+    <entry file="file://$PROJECT_DIR$/xem thu.html" />
+    <entry file="file://$PROJECT_DIR$/Tic tac toe.html" />
+    <entry file="file://$PROJECT_DIR$/../New folder/co caro don gian.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ham/bai tap ham 2.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ham/luyen tap2/bai ham 2 phan 6.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kg.html" />
+    <entry file="file://$PROJECT_DIR$/xay dung lop date.html" />
+    <entry file="file://$PROJECT_DIR$/../ham/bai tap ham.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ham/bai tap ham 1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" selection-start-line="8" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lop hinh tron.html" />
+    <entry file="file://$PROJECT_DIR$/funny cirles.html" />
+    <entry file="file://$PROJECT_DIR$/../ham/lop hinh tron.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo ta hnh chu nhat.html" />
+    <entry file="file://$PROJECT_DIR$/../ham/funny cirles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="7" column="93" selection-start-line="7" selection-end-line="7" selection-end-column="95" />
+          <folding>
+            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dàasfwe.html" />
+    <entry file="file://$PROJECT_DIR$/mo ta Temperature.html" />
+    <entry file="file://$PROJECT_DIR$/dvgvw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfefbegdb.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo ta  dien thoai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1234">
+          <caret line="155" column="25" selection-start-line="155" selection-start-column="25" selection-end-line="155" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects/yasuo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-316">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jghcn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/den pin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
